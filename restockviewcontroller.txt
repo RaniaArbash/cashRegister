@@ -1,0 +1,3 @@
+Move the model form first view controller
+
+Restock the data 

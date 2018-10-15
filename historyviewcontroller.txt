@@ -1,0 +1,4 @@
+Create history array
+Create history view controller 
+
+Connect between model and view
